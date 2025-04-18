@@ -29,3 +29,7 @@ html, body {
   .fini {
     background-color : #0c9463;
   }
+
+  .col {
+    margin: 20px;
+  }
